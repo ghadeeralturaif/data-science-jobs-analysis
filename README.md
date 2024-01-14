@@ -26,3 +26,13 @@ salary_in_usd: The salary in USD. <br />
 employee_residence: Employee's primary country of residence during the work year. <br />
 remote_ratio: The overall amount of work done remotely. <br />
 company_location: The country of the employer's main office or contracting branch. <br />
+
+
+
+
+1. The top five pouplar job titles in the Data Science field are Data Engineer, Data Scientist, Data Analyst, Machine Learning Engineer and Analytics Engineer. <br />
+2. Most Data Science jobs require Mid-level/Senior-level/Expert experience level and the highest salaries for these experience level. <br />
+3.  A significant increase of the number of Data Science jobs and the salary during 2022- and 2023 years. <br />
+4.  Medium and Large companies size are pay the highest salaries in contrast to small size of companies. <br />
+5.  A full time employment is best and high salary>
+6.  
